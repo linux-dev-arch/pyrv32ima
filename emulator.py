@@ -1,4 +1,4 @@
-import sys,time,platform,msvcrt
+import sys,time
 
 ram=bytearray(1024*1024*128)
 csrs=[0]*4096
