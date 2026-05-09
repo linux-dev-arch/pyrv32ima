@@ -1,0 +1,3 @@
+*.dts text eol=lf
+*.dtsi text eol=lf
+*.py text eol=lf
